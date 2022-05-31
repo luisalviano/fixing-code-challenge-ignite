@@ -20,7 +20,7 @@ This application performs the CRUD operations of projects repositories. In addit
 
 The repository structure must be as shown below:
 
-```json
+```
 {
   id: uuid(),
   title,
